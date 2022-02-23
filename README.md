@@ -7,7 +7,7 @@
 
 💚 Vue.js/Node.js developer at [MyLab](https://mylab.report).
 
-🇼 Wordpress Developer at Lab24.
+🇼 Wordpress Developer at [Lab24](https://lab24.com.ua/).
 
 🇺🇦 Based in Lviv, Ukraine.
 
