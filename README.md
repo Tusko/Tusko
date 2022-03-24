@@ -1,6 +1,5 @@
 # Hi, I'm Tusko Trush [![wakatime](https://wakatime.com/badge/user/36bf7ce8-0e11-4e63-bea7-06612a86747f.svg)](https://wakatime.com/@36bf7ce8-0e11-4e63-bea7-06612a86747f)
 
-
 🔭 10+ years experienced front-end developer.
 
 🧔🏻 Frontend Team Leader at [MSTrade](https://mstrade.org/).
@@ -12,7 +11,6 @@
 🇺🇦 Based in Lviv, Ukraine.
 
 ---
-
 
 ![JavaScript](https://aleen42.github.io/badges/src/javascript.svg)
 ![TypeScript](https://aleen42.github.io/badges/src/typescript.svg)
@@ -34,9 +32,8 @@
 
 ### 🤝🏻 &nbsp;Get in touch
 
-
 <p align="center">
-<a href="https://frontend.im"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://frontend.im"><img src="https://img.shields.io/badge/-frontend.im-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/tuskotrush"><img src="https://img.shields.io/badge/-Tusko%20Trush-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:tusko@trush.email"><img src="https://img.shields.io/badge/-tusko@trush.email-D14836?style=flat&logo=Mail&logoColor=white"/></a>
 <a href="https://instagram.com/tuskotrush"><img src="https://img.shields.io/badge/-@tuskotrush-e1306c?style=flat&logo=Instagram&logoColor=white"/></a>
