@@ -1,4 +1,4 @@
-# Hi, I'm Tusko Trush [![wakatime](https://wakatime.com/badge/user/36bf7ce8-0e11-4e63-bea7-06612a86747f.svg)](https://wakatime.com/@36bf7ce8-0e11-4e63-bea7-06612a86747f)
+# Hi, I'm Tusko Trush [![wakatime](https://wakatime.com/badge/user/36bf7ce8-0e11-4e63-bea7-06612a86747f.svg)](https://wakatime.com/@36bf7ce8-0e11-4e63-bea7-06612a86747f) <img src="https://komarev.com/ghpvc/?username=tusko&label=Profile%20views&color=0e75b6&style=flat" alt="tusko" />
 
 🔭 10+ years experienced front-end developer.
 
@@ -20,8 +20,13 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg)
 ![ElasticSearch](https://badges.aleen42.com/src/elasticsearch.svg)
 
-![Webpack](https://badges.aleen42.com/src/webpack.svg)
+![GitLab](https://badges.aleen42.com/src/gitlab.svg)
+![Github](https://badges.aleen42.com/src/github.svg)
+
+![CLI](https://badges.aleen42.com/src/cli.svg)
 ![npm](https://badges.aleen42.com/src/npm.svg)
+![Gulp](https://badges.aleen42.com/src/gulp.svg)
+![Webpack](https://badges.aleen42.com/src/webpack.svg)
 ![Vite](https://badges.aleen42.com/src/vitejs.svg)
 ![Rollup](https://badges.aleen42.com/src/rollup.svg)
 
@@ -29,6 +34,8 @@
 ![Jest](https://badges.aleen42.com/src/jest_1.svg)
 
 [![Tusko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tusko)](https://github-readme-stats.vercel.app/api?username=Tusko)
+
+[![Tusko's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=tusko&theme=light)](https://github-readme-streak-stats.herokuapp.com/?user=tusko&theme=light)
 
 ### 🤝🏻 &nbsp;Get in touch
 
