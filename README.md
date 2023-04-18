@@ -4,9 +4,9 @@
 
 🧔🏻 Frontend Team Leader at [MSTrade](https://mstrade.org/).
 
-💚 Vue.js/Node.js developer at [MyLab](https://mylab.report).
-
 🇼 Wordpress/Vue3/Node.js Developer at [Lab24](https://lab24.com.ua/).
+
+💚 Former Vue.js/Node.js developer at [MyLab](https://mylab.report).
 
 🇺🇦 Based in Lviv, Ukraine.
 
