@@ -2,7 +2,9 @@
 
 🔭 10+ years experienced front-end developer.
 
-🧔🏻 Frontend Team Leader at [AVSTrade](https://avstrade.me/).
+🧔 Frontend Team Leader at [ArtLabs Europe OÜ](https://artlabseurope.com/).
+
+🧔🏻 Former Frontend Team Leader at [AVSTrade](https://avstrade.me/).
 
 🇼 Former Wordpress/Vue3/Node.js Developer at [Lab24](https://lab24.com.ua/).
 
