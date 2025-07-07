@@ -39,6 +39,7 @@
 
 [![Tusko's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=tusko&theme=light)](https://github-readme-streak-stats.herokuapp.com/?user=tusko&theme=light)
 
+[![Tusko's GutHub Most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusko&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=tusko&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ### 🤝🏻 &nbsp;Get in touch
 
 <p align="center">
