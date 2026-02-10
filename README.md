@@ -2,7 +2,9 @@
 
 🔭 10+ years experienced front-end developer.
 
-🧔 Frontend Team Leader at [ArtLabs Europe OÜ](https://artlabseurope.com/).
+🧔 Senior Full-Stack JS Developer at [TraffBand](https://traffband.com/).
+
+🧔 Former Frontend Team Leader at [ArtLabs Europe OÜ](https://artlabseurope.com/).
 
 🧔🏻 Former Frontend Team Leader at [AVSTrade](https://avstrade.me/).
 
