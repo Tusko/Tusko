@@ -37,11 +37,11 @@
 ![ESLint](https://badges.aleen42.com/src/eslint.svg)
 ![Jest](https://badges.aleen42.com/src/jest_1.svg)
 
-[![Tusko's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tusko)](https://github-readme-stats.vercel.app/api?username=Tusko)
+[![Tusko's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=tusko&show_icons=false&theme=transparent&hide_border=true&count_private=true)](https://github.com/tusko)
 
 [![Tusko's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=tusko&theme=light)](https://github-readme-streak-stats.herokuapp.com/?user=tusko&theme=light)
 
-[![Tusko's GutHub Most languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tusko&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=tusko&theme=light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[![ejbills's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tusko&layout=compact&theme=transparent&hide_border=true)](https://github.com/tusko)
 ### 🤝🏻 &nbsp;Get in touch
 
 <p align="center">
