@@ -4,6 +4,8 @@
 
 🧔 Senior Full-Stack JS Developer at [TraffBand](https://traffband.com/).
 
+🧔 Full-Dtack Hybrid App Developer at [MedicGo](https://medicgo.pl/) (web/ios/adnroid using Capacitor).
+
 🧔 Former Frontend Team Leader at [ArtLabs Europe OÜ](https://artlabseurope.com/).
 
 🧔🏻 Former Frontend Team Leader at [AVSTrade](https://avstrade.me/).
