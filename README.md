@@ -2,9 +2,9 @@
 
 🔭 10+ years experienced front-end developer.
 
-🧔 Senior Full-Stack JS Developer at [TraffBand](https://traffband.com/).
+🧔🏻 Senior Full-Stack JS Developer at [TraffBand](https://traffband.com/).
 
-🧔 Full-Stack Hybrid App Developer at [MedicGo](https://medicgo.pl/) (web/ios/adnroid using Capacitor).
+👨🏻‍💻 Full-Stack Hybrid App Developer at [MedicGo](https://medicgo.pl/) (web/ios/adnroid using Capacitor).
 
 🧔 Former Frontend Team Leader at [ArtLabs Europe OÜ](https://artlabseurope.com/).
 
