@@ -1,6 +1,6 @@
 # Hi, I'm Tusko Trush [![wakatime](https://wakatime.com/badge/user/36bf7ce8-0e11-4e63-bea7-06612a86747f.svg)](https://wakatime.com/@36bf7ce8-0e11-4e63-bea7-06612a86747f) <img src="https://komarev.com/ghpvc/?username=tusko&label=Profile%20views&color=0e75b6&style=flat" alt="tusko" />
 
-🔭 10+ years experienced front-end developer.
+🔭 15+ years experienced front-end developer.
 
 🧔🏻 Team Lead / Full-Stack JS Developer [TraffBand](https://traffband.com/).
 
